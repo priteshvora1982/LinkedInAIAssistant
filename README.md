@@ -1,2 +1,0 @@
-# LinkedInAIAssistant
-LinkedIn AI Assistant
